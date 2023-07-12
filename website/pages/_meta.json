@@ -1,0 +1,46 @@
+{
+  "index": {
+    "type": "page",
+    "title": "Million.js",
+    "display": "hidden",
+    "theme": {
+      "layout": "raw"
+    }
+  },
+  "docs": {
+    "type": "page",
+    "title": "Publicações"
+  },
+  "blog": {
+    "type": "page",
+    "title": "Blog"
+  },
+  "readme": {
+    "type": "page",
+    "title": "Sobre Mim",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "more": {
+    "title": "More",
+    "type": "menu",
+    "items": {
+      "research": {
+        "title": "Instagram",
+        "href": "https://instagram.com/jusdanielponte",
+        "newWindow": true
+      },
+      "demo": {
+        "title": "Linkedin",
+        "href": "https://linkedin.com/in/jusdanielponte",
+        "newWindow": true
+      },
+      "hundred": {
+        "title": "Inicio",
+        "href": "https://danielponte.com.br",
+        "newWindow": true
+      }
+    }
+  }
+}

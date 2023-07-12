@@ -1,0 +1,18 @@
+{
+  "index": "Introduction",
+  "-- Guide": {
+    "type": "separator",
+    "title": "Guide"
+  },
+  "quickstart": "Quick Start",
+  "install": "Installation",
+  "rules": "Rules of Blocks",
+  "typescript": "Usage with TypeScript",
+  "-- API Reference": {
+    "type": "separator",
+    "title": "API Reference"
+  },
+  "block": "block()",
+  "for": "<For>",
+  "internals": "Internals"
+}
