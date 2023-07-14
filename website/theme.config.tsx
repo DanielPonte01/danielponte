@@ -231,6 +231,7 @@ const config: DocsThemeConfig = {
     key: `${packageJson.version}-release`,
     text: (
       <a href="https://github.com/DanielPonte01/danielponte">
+      Site em construção.
       </a>
     ),
   },

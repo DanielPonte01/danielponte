@@ -1,16 +1,17 @@
 {
-  "index": "Introduction",
-  "-- Guide": {
+  "index": "Introdução",
+  "-- Penal": {
     "type": "separator",
-    "title": "Guide"
+    "title": "Direito Penal"
   },
-  "quickstart": "Quick Start",
-  "install": "Installation",
-  "rules": "Rules of Blocks",
-  "typescript": "Usage with TypeScript",
-  "-- API Reference": {
+  "penal-inicio": "Conceitos Iniciais",
+  "penal-lei": "A Lei Penal",
+  "penal-teoria-geral-do-crime": "Teoria Geral do Crime",
+  "penal-punibilidade": "Punibilidade",
+  "penal-pena": "Pena",
+  "-- Processo Penal": {
     "type": "separator",
-    "title": "API Reference"
+    "title": "Direito Processo Penal"
   },
   "block": "block()",
   "for": "<For>",

@@ -23,7 +23,7 @@ export function About() {
               Quem sou
               </h2>
               <p className="text-lg justify-center my-8 text-zinc-600 dark:text-zinc-300">
-              Daniel Ponte, advogado (OAB 21.452/PI) e escritor, pós-graduando em Direito Penal e Segurança pública pelo Centro de Ensino Superior de São Gotardo - MG e em Direito Constitucional Aplicado pela Legale Institucional.
+              Daniel Ponte, advogado (OAB 21.452/PI) e escritor, pós-graduado em Direito Penal e Segurança pública pelo Centro de Ensino Superior de São Gotardo - MG.
               </p>
               <div className="divide-y space-y-4 divide-zinc-100 dark:divide-zinc-800">
                 <div className="mt-8 flex gap-4 md:items-center">
