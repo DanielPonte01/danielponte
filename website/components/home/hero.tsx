@@ -104,7 +104,7 @@ function OabLogo() {
     <Image
       src="/oab.svg"
       alt='Oab'
-      className="dark:invert"
+      className="dark:white"
       width={50}
       height={33.13}
     />
