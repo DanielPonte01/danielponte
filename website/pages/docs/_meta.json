@@ -1,20 +1,4 @@
 {
   "index": "Introdução",
-  "-- Penal": {
-    "type": "separator",
-    "title": "Direito Penal"
-  },
-  "penal-inicio": "Conceitos Iniciais",
-  "penal-lei": "A Lei Penal",
-  "penal-teoria-geral-do-crime": "Teoria Geral do Crime",
-  "penal-punibilidade": "Punibilidade",
-  "penal-pena": "Pena",
-  "-- Processo Penal": {
-    "type": "separator",
-    "title": "Direito Processo Penal"
-  },
-  "acao-penal": "Ação Penal",
-  "for": "<For>",
-  "internals": "Internals"
 
 }
