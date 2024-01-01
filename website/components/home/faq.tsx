@@ -21,7 +21,7 @@ const faq = [
       <div></div>
       Ou pelo {' '}
         <a
-          href="https://wa.me/message/C2SOHBPRCCC2D1"
+          href="https://wa.me/558695886151"
           target="_blank"
           className="nx-text-primary-600 nx-underline nx-decoration-from-font text-zinc-900 dark:text-white [text-underline-position:from-font]"
         >
